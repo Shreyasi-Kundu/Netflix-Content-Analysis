@@ -20,5 +20,4 @@ The dashboard is a visual journey through genres, release years, countries, and 
 Power BI Desktop
 DAX Measures for KPIs & calculated insights
 Interactive Visuals: Bar Charts, Pie Charts, KPI Cards, Filters
-
 Data Storytelling: Insights summarized using titles, tooltips, and clean visual design
