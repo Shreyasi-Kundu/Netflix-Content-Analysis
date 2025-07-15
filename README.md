@@ -25,3 +25,16 @@ This Power BI report answers compelling questions like:
 During the analysis, I discovered that TV Shows have a higher average rating (7.18) compared to Movies (6.53). I also noted a significant boom in original content between 2015–2020, especially from countries like the USA, India, and the UK.
 
 To make the dashboard truly interactive, I added slicers and filters so viewers can explore trends by genre, country, or type. The end result was a visual storytelling experience powered by data — helping viewers uncover what’s trending on Netflix with just a few clicks.
+
+Here are a few snapshots from my interactive Power BI dashboard:
+
+<h3 align="center">📊 Netflix Dashboard Preview</h3>
+
+<p align="center">
+  <img src="1_page-0001.jpg" width="600" /><br/><br/>
+  <img src="2_page-0001.jpg" width="600" /><br/><br/>
+  <img src="3_page-0001.jpg" width="600" /><br/><br/>
+  <img src="4_page-0001.jpg" width="600" /><br/><br/>
+  <img src="5_page-0001.jpg" width="600" /><br/><br/>
+  <img src="6_page-0001.jpg" width="600" />
+</p>
